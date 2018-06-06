@@ -1,6 +1,6 @@
 {
   "name": "ionic-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A ionic provider to easier your life",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saimon24/ionic-academy-module.git"
+    "url": "git+https://github.com/robertobdev/ionic-utils.git"
   },
   "keywords": [
     "ionic",
