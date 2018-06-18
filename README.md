@@ -1,5 +1,3 @@
-## A simple crud with react and react material
-
 # ionic-utils
 A ionic provider to easier your life, wrap Ionic components to write less code.
 
