@@ -28,13 +28,13 @@ import { UtilsProvider } from 'ionic-utils';
 
 # Methods <a name="methods"></a>
 
-* [.makeAlert(title, message)
+* makeAlert(title, message)
 
 
-* [.makeLoading(message)
+* makeLoading(message)
     
 
-## .makeAlert(title, message)
+## makeAlert(title, message)
 
 Returns a alert to information something to the users
 
@@ -44,7 +44,7 @@ Returns a alert to information something to the users
 
 - __message__: The message for the alert.
 
-## .makeLoading(message)
+## makeLoading(message)
 
 Display a loading indicator to show the users something are loading
 
